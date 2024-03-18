@@ -1,0 +1,31 @@
+body{
+    background:  black;
+
+}
+.button{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    gap: 10px;
+
+}
+.on,.off{
+    border-style: none;
+    background-color: white;
+    color: black;
+}
+.imgon{
+    display: none;
+    height: 300px;
+    width: 300px;
+}
+.imgoff{
+    height: 350px;
+    width: 250px;
+}
+.img{
+    margin-top: 10%;
+}
+h1{
+    color: white;
+}
